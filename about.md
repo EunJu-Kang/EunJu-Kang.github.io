@@ -7,5 +7,5 @@ order: 10
 
 ## EunJu Kang
 
-[Github](https://github.com/EunJu-Kang)
+- [EunJu's Github](https://github.com/EunJu-Kang) <br>
 ![Github Image](https://ghchart.rshah.org/EunJu-Kang)
