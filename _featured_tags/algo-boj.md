@@ -1,6 +1,6 @@
 ---
 layout: tag-blog
-title: BeakJoon
+title: 백준
 slug: BOJ
 category: Algorithm
 menu: false
