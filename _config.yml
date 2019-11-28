@@ -18,7 +18,7 @@ tagline:             은주's 블로그
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  안녕하세요 :)
+  오늘은 어제 우리가 그토록 공부한다던 내일이다
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
