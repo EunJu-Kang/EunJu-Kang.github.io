@@ -112,13 +112,17 @@ exclude:
   - Gemfile.lock
 
 kramdown:
-  input: GFM                            # use Github Flavored Markdown !important
+  footnote_backlink: '&#x21a9;&#xfe0e;'
+  math_engine:       mathjax
+  math_engine_opts:
+    preview:         true
+    preview_as_code: true
   syntax_highlighter_opts:
     span:
       line_numbers: false
     block:
       line_numbers: true
-      start_line: 1
+      start_line: 1  
 
 compress_html:
   comments:          ["<!-- ", " -->"]
