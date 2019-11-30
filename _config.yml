@@ -117,12 +117,6 @@ kramdown:
   math_engine_opts:
     preview:         true
     preview_as_code: true
-  syntax_highlighter_opts:
-    span:
-      line_numbers: false
-    block:
-      line_numbers: true
-      start_line: 1  
 
 compress_html:
   comments:          ["<!-- ", " -->"]
