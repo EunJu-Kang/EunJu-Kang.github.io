@@ -12,8 +12,7 @@
 ## Projects
 - EASY MAP <br>
  ```교내 지리를 모르는 사람들을 위해 쉽게 교내정보 및 길안내를 도와주는 AR을 이용한 Android 앱```
-  <br>
-  https://youtu.be/Ps5obYMwXwA
+  <br> https://youtu.be/Ps5obYMwXwA
   
 - SAFE FOOD <br>
  ```알레르기를 가진 사람들이 안전하게 식품을 섭취하도록 도와주는 Spring Framework 및 jsp 기반 웹 플랫폼```
@@ -23,10 +22,8 @@
  
 - CHAIN VILLAIN <br>
  ```사진 저작권을 사고 팔고싶은 사람들에게 P2P 경매를 가능하게 해주는 Ethereum/Hyperledger Fabric 블록체인을 이용한 웹 플랫폼```
- <br>
- https://youtu.be/p6_8xIwxEEc
+ <br> https://youtu.be/p6_8xIwxEEc
  
 - SOA(소중한아기) <br>
  ```아기를 가진 육아초보자들에게 이유식, 육아정책 등 정보를 제공해주는 육아백과사전 Bixby capsule```
- <br>
- https://youtu.be/yvFUtVVCAfo
+ <br> https://youtu.be/yvFUtVVCAfo
