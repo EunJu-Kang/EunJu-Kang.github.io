@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: About Me
 menu: true
 order: 10
 ---
