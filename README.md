@@ -6,7 +6,7 @@
 
 ## Skills
 - Java, C, Javascript, JSP
-- Spring, Vue.js
+- Spring boot, Vue.js
 - MySQL
 
 ## Projects
