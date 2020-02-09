@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
 title: 알고리즘
-slug: MYALGO
+slug: ALGO
 category: Algorithm
 menu: false
 order: 2
