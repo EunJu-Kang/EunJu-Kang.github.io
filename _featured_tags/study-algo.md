@@ -1,6 +1,6 @@
 ---
 layout: tag-blog
-title: JAVA
+title: algo
 slug: Algo
 category: Study
 menu: false
