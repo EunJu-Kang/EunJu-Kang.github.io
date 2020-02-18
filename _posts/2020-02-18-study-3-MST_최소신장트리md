@@ -42,6 +42,8 @@ tags: Algo
 ~~~
 답 : 175
 
+![MST](/assets/img/Study/algo/MST.jpg)
+
 ### Kruskal MST 
 ~~~ java
 import java.util.Arrays;
