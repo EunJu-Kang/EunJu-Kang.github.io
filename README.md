@@ -5,9 +5,12 @@
 - 삼성청년 SW 아카데미 1기 졸업
 
 ## Skills
-- Java, C, Javascript, JSP
+- Java, C, Javascript, 
+- JSP, jQuery, HTML5, CSS
 - Spring boot, Vue.js
+- Android
 - MySQL
+
 
 ## Projects
 - EASY MAP (2018.03 ~ 2018.11) <br>
