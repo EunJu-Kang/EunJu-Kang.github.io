@@ -18,7 +18,7 @@ tags: Algo
 
 ### int형을 String형으로 형변환(Wrapper클래스 안쓰고)
 ~~~ java
-String str = 9 + "";
+String str = 9 + ""; // 공백없이
 ~~~
 
 ### char형을 int형으로 형변환
