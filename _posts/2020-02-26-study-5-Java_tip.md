@@ -45,3 +45,5 @@ Math.random()*100; //0.00000~9.99999
 ~~~ java
 stack.elementAt(idx);
 ~~~
+
+###
