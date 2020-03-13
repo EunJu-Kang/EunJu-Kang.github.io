@@ -23,7 +23,8 @@
  
 - MY BLOG (2019.07 ~ 2019.08) <br>
  ```개인에게 일정 및 포트폴리오 관리를 도와주는 Vue.js 및 다양한 api를 이용한 웹  플랩폼```
- <br> https://docs.google.com/presentation/d/16y2fZV_iQzMkSyNed-echLJRk7U5WRHxLziKN4vrH9o/edit#slide=id.p1
+ <br> 1. https://docs.google.com/presentation/d/16y2fZV_iQzMkSyNed-echLJRk7U5WRHxLziKN4vrH9o/edit#slide=id.p1
+ <br> 2. https://ssafy-2team-dc2b4.firebaseapp.com/
  
 - CHAIN VILLAIN (2019.08~2019.10) <br>
  ```사진 저작권을 사고 팔고싶은 사람들에게 P2P 경매를 가능하게 해주는 Ethereum/Hyperledger Fabric 블록체인을 이용한 웹 플랫폼```
