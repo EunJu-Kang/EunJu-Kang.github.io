@@ -24,7 +24,8 @@ tags: Algo
 : 퀵정렬은 정렬할 전체 원소에 대해서 정렬을 수행하지 않는다. <br>
 먼저 기준 값을 중심으로 전체 원소들을 왼쪽 부분집합과 오른쪽 부분집합으로 분할(Divide)한다. <br>
 왼쪽 부분 집합에는 기준 값보다 작은 원소들을 이동시키고, 오른쪽 부분 집합에는 기준 값보다 큰 원소들을 이동시킨다. <br><br>
-![quick](/assets/img/Study/algo/quick_sort.gif) [출처-위키]
+![quick](/assets/img/Study/algo/quick_sort.gif) 
+<br> [출처-위키]
 
 #### 시간복잡도
 Quick Sort 로 오름차순 정렬을 한다고 하자. 그렇다면 Worst Case 는 partition 과정에서 pivot value 가 항상 배열 내에서 가장 작은 값 또는 가장 큰 값으로 설정되었을 때이다. 매 partition 마다 unbalanced partition이 이뤄지고 이렇게 partition 이 되면 비교 횟수는 원소 n 개에 대해서 n 번, (n-1)번, (n-2)번 … 이 되므로 시간 복잡도는 O(n^2) 이 된다.
