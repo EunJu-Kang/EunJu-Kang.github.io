@@ -33,3 +33,4 @@
 - SOA-소중한아기 (2019.10~2019.11) <br>
  ```아기를 가진 육아초보자들에게 이유식, 육아정책 등 정보를 제공해주는 육아백과사전 Bixby capsule```
  <br> https://youtu.be/yvFUtVVCAfo
+ <br> '소중한 아기' in Bixby market
