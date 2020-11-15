@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
 title: python
-slug: python
+slug: Python
 category: Study
 menu: false
 order: 2
