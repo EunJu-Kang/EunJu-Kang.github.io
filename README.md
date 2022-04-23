@@ -1,9 +1,3 @@
-
-# 강은주 
-
-- 멀티미디어공학과 
-- 삼성청년 SW 아카데미
-
 ## Skills
 - Java, C, Javascript, 
 - JSP, jQuery, HTML5, CSS
