@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: 백준
-slug: BOJ
+title: 프로그래머스
+slug: PROMS
 category: Algorithm
 menu: false
-order: 1
+order: 3
 ---
