@@ -2,7 +2,7 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               EunJu-Kang
+title:               은주's
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
@@ -13,7 +13,7 @@ url:                 https://eunju-kang.github.io
 baseurl:             ""
 
 # A very short description of your page
-tagline:             은주's 블로그
+tagline:             알고리즘 풀이 블로그
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
