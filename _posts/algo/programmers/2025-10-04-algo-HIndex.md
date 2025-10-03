@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "H-Index"
+title:  "H Index"
 subtitle:   ""
 categories: Algorithm
 tags: PROMS
